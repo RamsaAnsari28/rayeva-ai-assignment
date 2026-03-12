@@ -1,0 +1,23 @@
+[
+  {
+    "productName": "Bamboo Toothbrush",
+    "description": "Eco friendly biodegradable toothbrush",
+    "ai_category": {
+      "primary_category": "Personal Care",
+      "sub_category": "Oral Care",
+      "seo_tags": [
+        "bamboo toothbrush",
+        "eco friendly toothbrush",
+        "biodegradable toothbrush",
+        "plastic free toothbrush",
+        "sustainable oral care"
+      ],
+      "sustainability_filters": [
+        "plastic-free",
+        "vegan",
+        "compostable",
+        "eco-friendly"
+      ]
+    }
+  }
+]

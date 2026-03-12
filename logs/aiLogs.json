@@ -1,0 +1,23 @@
+[
+  {
+    "prompt": "\nGenerate product categorization.\n\nProduct Name: Bamboo Toothbrush\n\nDescription: Eco friendly biodegradable toothbrush\n\nReturn JSON with:\nprimary_category\nsub_category\nseo_tags\nsustainability_filters\n",
+    "response": {
+      "primary_category": "Personal Care",
+      "sub_category": "Oral Care",
+      "seo_tags": [
+        "bamboo toothbrush",
+        "eco friendly toothbrush",
+        "biodegradable toothbrush",
+        "plastic free toothbrush",
+        "sustainable oral care"
+      ],
+      "sustainability_filters": [
+        "plastic-free",
+        "vegan",
+        "compostable",
+        "eco-friendly"
+      ]
+    },
+    "timestamp": "2026-03-11T18:36:21.158Z"
+  }
+]
